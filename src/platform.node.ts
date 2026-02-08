@@ -9,6 +9,6 @@
  */
 import { Parser } from 'htmlparser2';
 import { type Handler } from 'htmlparser2/lib/Parser';
-import { Raw, Client } from '@tgsnake/core';
+import { Raw, Client } from '@armatofik/tgsnake-core';
 export { inspect } from 'util';
 export { Parser, Handler, Raw, Client };
